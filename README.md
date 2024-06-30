@@ -13,4 +13,4 @@
 - **Unit 8: MCU Interfacing** ![waiting](https://img.shields.io/badge/waiting-0%25-brightgreen)
 - **Unit 9: MCU Timers/ADC** ![waiting](https://img.shields.io/badge/waiting-0%25-brightgreen)
 - **Unit 10: SW Testing/Validation** ![waiting](https://img.shields.io/badge/waiting-0%25-brightgreen)
-- **Unit 11: Apply on Embedded Systems Jobs** ![Exams](https://img.shields.io/badge/Exams-80%25-blue)
+- **Unit 11: Apply on Embedded Systems Jobs** ![Exams](https://img.shields.io/badge/Exams-0%25-blue)
