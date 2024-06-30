@@ -1,6 +1,6 @@
 # Contents
 
-## First Term ![In Progress](https://img.shields.io/badge/Done-0%25-brightgreen)
+## First Term ![In Progress](https://img.shields.io/badge/Done-20%25-brightgreen)
 - **Unit 1: Diploma Prerequisites** ![No Assignments](https://img.shields.io/badge/No_Assignments-100%25-lightgrey)
 - **Unit 2: C Programming** ![In Progress](https://img.shields.io/badge/In_Progress-37%25-brightgreen)
 - **Unit 3: Embedded C** ![waiting](https://img.shields.io/badge/waiting-0%25-brightgreen)
