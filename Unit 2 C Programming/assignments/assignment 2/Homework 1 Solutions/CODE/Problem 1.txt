@@ -1,0 +1,15 @@
+/*
+ * main.c
+ *
+ *  Created on: Jun 29, 2024
+ *      Author: Abdallah Ghazy
+ */
+
+#include <stdio.h>
+int main(){
+	printf("##########Console-output###\n"
+			"C Programming\n"
+			"###########################\n"
+			"########################################################################");
+	return 0;
+}

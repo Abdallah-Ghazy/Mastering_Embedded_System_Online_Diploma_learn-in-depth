@@ -1,0 +1,17 @@
+ #include <stdio.h>
+
+int main() {
+    char Character = 0;
+    printf("Enter a character: ");
+
+    fflush(stdout);
+    scanf("%c", &Character);
+
+    if ((Character >= 'a' && Character <= 'z') || (Character >= 'A' && Character <= 'Z')) {
+        printf("%c is an alphabet\n", Character);
+    } else {
+        printf("%c is not an alphabet\n", Character);
+    }
+
+    return 0;
+}

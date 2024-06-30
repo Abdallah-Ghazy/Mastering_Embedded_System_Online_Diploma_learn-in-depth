@@ -1,0 +1,15 @@
+  #include <stdio.h>
+int main(){
+	char character;
+
+	printf("##########Console-output###\n"
+			"Enter a character: ");
+
+	fflush(stdout);
+	scanf("%c",&character);
+
+	printf("ASCII value of G = %d\n",character);
+	printf("###########################");
+
+	return 0;
+}

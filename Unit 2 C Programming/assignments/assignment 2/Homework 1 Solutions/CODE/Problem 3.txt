@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main(){
+	int num1 = 0;
+	int num2 = 0;
+
+	printf("##########Console-output###\n"
+			"Enter two integers \"A + B\" : ");
+
+	fflush(stdout);
+	scanf("%i + %i",&num1,&num2);
+
+	printf("Sum: %i\n",num1+num2);
+
+	printf("###########################");
+
+	return 0;
+}

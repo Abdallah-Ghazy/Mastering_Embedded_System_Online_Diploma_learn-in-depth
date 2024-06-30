@@ -1,0 +1,23 @@
+/*
+ * main.c
+ *
+ *  Created on: Jun 29, 2024
+ *      Author: Abdallah Ghazy
+ */
+
+#include <stdio.h>
+int main(){
+	int value = 0;
+
+	printf("##########Console-output###\n"
+			"Enter a integer: ");
+
+	fflush(stdout);
+	scanf("%i",&value);
+
+	printf("You entered: %i",value);
+
+	printf("###########################");
+
+	return 0;
+}

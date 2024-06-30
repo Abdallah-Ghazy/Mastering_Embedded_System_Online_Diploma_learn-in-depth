@@ -1,0 +1,10 @@
+  #include <stdio.h>
+int main() {
+		int num = 0;
+		printf("Enter an integer you want to check:");
+		fflush(stdout);
+		scanf("%d",&num);
+
+		printf("The Number %d is %s",num,((num%2) ? "odd" : "even"));
+    return 0;
+}
