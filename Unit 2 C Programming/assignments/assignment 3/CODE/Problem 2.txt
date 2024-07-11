@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main() {
+	int N;
+	float sum=0;
+	printf("Enter the numbers of data:");
+	fflush(stdout);
+	scanf("%d",&N);
+
+	float arr[N];
+	for(int i=0;i<N;i++){
+		printf("Enter number:");
+		fflush(stdout);
+		scanf("%f",&arr[i]);
+		sum+=arr[i];
+	}
+
+	printf("sum = %0.2f\n",sum);
+	printf("Average = %0.2f",(sum/N));
+	return 0;
+}

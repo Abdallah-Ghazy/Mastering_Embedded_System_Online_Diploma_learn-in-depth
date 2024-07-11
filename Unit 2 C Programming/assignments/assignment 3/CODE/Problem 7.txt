@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+	char string[100];
+	char counter = 0;
+
+	printf("Enter a string: ");
+	fflush(stdout);
+	gets(string);
+
+	for (int i = 0; string[i] != 0; i++) {
+		counter++;
+	}
+
+	if (counter) {
+		printf("Length of string: %d", counter);
+	} else {
+		printf("Please enter the text");
+	}
+	return 0;
+}

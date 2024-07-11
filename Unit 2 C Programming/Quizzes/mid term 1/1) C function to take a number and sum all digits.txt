@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int SumAllDigits(int num);
+
+int main() {
+	int number;
+
+	printf("Enter an integer: ");
+	fflush(stdout);
+	scanf("%d", &number);
+
+	int result = SumAllDigits(number);
+
+	printf("Sum of digits of %d is %d\n", number, result);
+
+	return 0;
+}
+
+int SumAllDigits(int num) {
+	int digit;
+	if (num == 0) {
+		return 0;
+	} else {
+		digit = num % 10;
+		return digit + SumAllDigits(num / 10);
+	}
+}

@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main() {
+	char string[100];
+	char character;
+	char counter = 0;
+	printf("Enter a string: ");
+	fflush(stdout);
+	gets(string);
+	printf("Enter a character to find frequency: ");
+	fflush(stdout);
+	scanf("%c", &character);
+
+	for (int i = 0; i < sizeof(string); i++) {
+		if (character == string[i]) {
+			counter++;
+		}
+	}
+
+	if (counter) {
+		printf("Frequency of %c = %d", character, counter);
+	} else {
+		printf("The character is missing.");
+	}
+	return 0;
+}

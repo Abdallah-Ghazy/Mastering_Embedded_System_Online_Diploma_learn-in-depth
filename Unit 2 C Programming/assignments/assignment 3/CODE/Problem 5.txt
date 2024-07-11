@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main() {
+	int NElements;
+	int SElements;
+	int flag = 0;
+	int location = 0;
+
+	printf("Enter no of elements :");
+	fflush(stdout);
+	scanf("%d", &NElements);
+
+	int arr[NElements];
+	for (int i = 0, j = 1; i < NElements; i++, j++) {
+		arr[i] = (j * 10) + j;
+		printf("%d\t", arr[i]);
+	}
+
+	printf("\nEnter the elements to be searched :");
+	fflush(stdout);
+	scanf("%d", &SElements);
+
+	for (int i = 0; i < NElements; i++) {
+		if (SElements == arr[i]) {
+			flag = 1;
+			location = i + 1;
+
+			break;
+		}
+	}
+
+	if (flag == 1) {
+		printf("Number found at the location = %d", location);
+	} else {
+		printf("\nNumber %d is not available", SElements);
+	}
+
+	return 0;
+}
+
