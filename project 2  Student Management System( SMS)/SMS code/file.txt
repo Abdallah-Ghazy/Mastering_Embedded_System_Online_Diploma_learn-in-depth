@@ -1,0 +1,90 @@
+Roll Number: 1
+First Name: Abdallah
+Last Name: Ghazy
+GPA: 2.30
+Email: abdallah@gmail.com
+Course ID: 3
+Course Name: Math
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 2
+First Name: Abdallah
+Last Name: Ghazy
+GPA: 2.30
+Email: s@gmail.com
+Course ID: 2
+Course Name: WW
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 3
+First Name: WW
+Last Name: S
+GPA: 2.00
+Email: s
+Course ID: 2
+Course Name: S
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 4
+First Name: Ahmed
+Last Name: Fathy
+GPA: 3.50
+Email: ahmed@example.com
+Course ID: 1
+Course Name: Physics
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 5
+First Name: Mariam
+Last Name: Maki
+GPA: 3.80
+Email: mariam@example.com
+Course ID: 4
+Course Name: Chemistry
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 6
+First Name: Ibrahim
+Last Name: Al-Jamal
+GPA: 3.20
+Email: ibrahim@example.com
+Course ID: 5
+Course Name: Biology
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 7
+First Name: Hossam
+Last Name: Al-Khatib
+GPA: 3.60
+Email: hossam@example.com
+Course ID: 6
+Course Name: Computer Science
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 8
+First Name: Abdullah
+Last Name: Samah
+GPA: 2.70
+Email: abdullah@example.com
+Course ID: 7
+Course Name: Statistics
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 9
+First Name: Ibrahim
+Last Name: Al-Morsi
+GPA: 3.00
+Email: ibrahim.morsi@example.com
+Course ID: 8
+Course Name: Mathematics
+Registration Date: Aug 14 2024
+----------------------------------------
+Roll Number: 10
+First Name: Fatima
+Last Name: Zahra
+GPA: 3.40
+Email: fatima@example.com
+Course ID: 9
+Course Name: English
+Registration Date: Aug 14 2024
+----------------------------------------
